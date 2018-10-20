@@ -31,9 +31,10 @@ The Auto-It Scipt does 1 job,
 
 ## Run
 
-1. Update the location of log file path to your local system log path.
+1. Build as instructed above.
 2. Start the Java application.
-3. Start the Auto-It Script.
+3. Update `$sFilePath` in the Auto-it script to same path given in `ActionPrinter.java`.
+4. Run the Auto-it Script.
 
 ## Known Issue
 
