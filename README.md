@@ -26,6 +26,7 @@ The Auto-It Scipt does 1 job,
 1. Clone or Download the repo.
 2. Add the library files provided in `lib` folder.
 3. Update all the file path locations to your local directory locations.
+4. Also, update your name _(client user name)_ in `HTMLReader2.java`.
 4. Build with the starting point as `Amber.java`.
 
 ## Run
