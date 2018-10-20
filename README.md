@@ -24,7 +24,9 @@ The Auto-It Scipt does 1 job,
 ## Build
 
 1. Clone or Download the repo.
-2. Build using the library files provided in `lib` folder.
+2. Add the library files provided in `lib` folder.
+3. Update all the file path locations to your local directory locations.
+4. Build with the starting point as `Amber.java`.
 
 ## Run
 
