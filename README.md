@@ -19,7 +19,7 @@ The Java code does 4 things,
 
 The Auto-It Scipt does 1 job,
 
-1. Writes the responses back to the active chat window 
+1. Writes the responses back to the active chat window and send the reply back.
 
 ## Build
 
@@ -34,6 +34,10 @@ The Auto-It Scipt does 1 job,
 1. Update the location of log file path to your local system log path.
 2. Start the Java application.
 3. Start the Auto-It Script.
+
+## Known Issue
+
+Does not understand emojis.
 
 ## Warning
 
